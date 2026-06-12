@@ -19,6 +19,12 @@
 "artist":"Artist Three",
 "cover":"assets/images/cover3.jpg",
 "audio":"assets/songs/song3.mp3"
-}
+},
 
+{
+"title":"ishq mubarak",
+"artist":"Arijit singh",
+"cover":"assets/images/cover4.jpg",
+"audio":"assets/songs/song4.mp3"
+}
 ]
