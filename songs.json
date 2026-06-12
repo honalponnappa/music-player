@@ -1,0 +1,24 @@
+[
+
+{
+"title":"uska hi banana",
+"artist":"Arijit singh",
+"cover":"assets/images/cover1.jpg",
+"audio":"assets/songs/song1.mp3"
+},
+
+{
+"title":"Teri dewani",
+"artist":"kailash kher",
+"cover":"assets/images/cover2.jpg",
+"audio":"assets/songs/song2.mp3"
+},
+
+{
+"title":"Song Three",
+"artist":"Artist Three",
+"cover":"assets/images/cover3.jpg",
+"audio":"assets/songs/song3.mp3"
+}
+
+]
